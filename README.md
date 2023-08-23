@@ -6,7 +6,9 @@ Bu poje Entity Framework Core | Repository Design Pattern | Unit of Work | Deplo
 
 Admin, yazar ve vitrin panelinden oluşmaktadır.
 
-Eğitim serisine [eğitim linki](https://www.udemy.com/share/1063qk3@mSodeojNOb3znHls4-r68LcNoQSkR4niIEmgH1HyUpTlDneUlqOxoKmwOk-wrWOI/) ulaşabilirsiniz
+Eğitim serisine [eğitim linki](https://www.udemy.com/share/1063qk3@mSodeojNOb3znHls4-r68LcNoQSkR4niIEmgH1HyUpTlDneUlqOxoKmwOk-wrWOI/) ulaşabilirsiniz.
+
+Proje görselleri ise sona ek olarak eklenmiştir.
 
 
 
@@ -377,3 +379,30 @@ Rolleme işlemi tamamlandı.
 
 
 ### 32.Bölüm projeyi canlıya alma aşamasıdır. Henüz tamamlanmamıştır.
+
+
+
+
+## Proje Görselleri
+
+
+
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaVcF.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVauwi.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVah1C.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaALG.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaJm1.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaLbT.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaP6L.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVanvo.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaqP3.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVacpK.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaU1Q.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVaFCM.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVavb7.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVcMuH.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVcf3R.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVcSvc.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVcNCy.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVcWtj.png)
+![Proje Görseli](https://resmim.net/cdn/2023/08/23/SVcmpn.png)
